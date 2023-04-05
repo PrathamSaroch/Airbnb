@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 
-
     <!-- Mirrored from www.ansonika.com/panagea/ by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 10 Mar 2023 10:09:24 GMT -->
     <head>
         <meta charset="utf-8">
@@ -36,7 +35,7 @@
         <div id="page">
 
             <%@include file="AdminNavbar.jsp"%>
-            <!-- /header -->
+            <!-- /header file -->
 
             <main>
                 <!-- /hero_single -->
